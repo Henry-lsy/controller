@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "quat": "cpp",
+        "vec4b": "cpp",
+        "vec4d": "cpp",
+        "vec4f": "cpp",
+        "vec4i": "cpp",
+        "vec4s": "cpp",
+        "vec4ui": "cpp",
+        "vec4us": "cpp",
+        "random": "cpp",
+        "vec4ub": "cpp"
+    }
+}

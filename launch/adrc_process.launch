@@ -1,0 +1,4 @@
+<launch>
+	<node pkg="ADRC_controller" type="adrc_node" name="adrc" output="screen">
+	</node>
+</launch>
